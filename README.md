@@ -34,7 +34,8 @@ The analysis of the election show that:
         - Denver: 82.8% with 306,055
         - Jefferson: 10.5% with 38,855 
     
-    -With a total 
+
+![](OrigVBAScriptAnalysisandTimetoRun.png)
     
     
     
