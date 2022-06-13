@@ -35,7 +35,7 @@ The analysis of the election show that:
         - Jefferson: 10.5% with 38,855 
     
 
-![](OrigVBAScriptAnalysisandTimetoRun.png)
+![](Election-Analysis/analysis/Election_Analysis_Terminal_Output.png)
     
     
     
