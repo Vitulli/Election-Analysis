@@ -39,11 +39,17 @@ The analysis of the election show that:
 #### Election Analysis Terminal Output
 
 ![](analysis/Election_Analysis_Terminal_Output.png)
+
+
+-Lastly, this script has the ability to use expanded data sets. It is not limited to a fixed number of candidates or
+    counties. As long as the imported data set is sorted by either candidate or county the script will produce
+    accurate totals and hence the script is future proof.
+    
     
     
     
 ## Challenge Overview
-
+- This challenge used secv
 
 ## Challenge Summary
 
