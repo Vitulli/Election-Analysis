@@ -42,14 +42,14 @@ The analysis of the election show that:
 
  
 ## Challenge Overview
-- This challenge demonstrated several python techniques to produce a result. Fors, Ifs, Lists, and Dictionaries, were all
+This challenge demonstrated several python techniques to produce a result. Fors, Ifs, Lists, and Dictionaries, were all
     were all incorporated to produce a result.  I was impressed with the techinque of checking against and empty list to 
     start a 'for' loop for logging information into the counts.
 
 ## Challenge Summary
--Lastly, this script has the ability to use expanded data sets. It is not limited to a fixed number of candidates or
+Lastly, this script has the ability to use expanded data sets. It is not limited to a fixed number of candidates or
     counties. As long as the imported data set is sorted by either candidate or county the script will produce
     accurate totals and hence the script is future proof.
     
--The challenge here was essential duplicate the same methodoly for the candidate count as the county count but the script 
+The challenge here was essential duplicate the same methodoly for the candidate count as the county count but the script 
     could just be expanded for any number of columns of additional data.
